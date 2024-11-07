@@ -40,6 +40,7 @@
 
   
 - **Issue**: *"Failed to create default config file: Access to the path 'C:\Program Files\Vicon\AppServer\AppConfig.xml' is denied."*
+  
   **Date**: 11/7/24
 
   **Description**:  
@@ -47,6 +48,7 @@
 
  
 - **Issue**: Arp Mac address will stay with the background in red
+  
   **Date**: 11/7/24 
 
   **Description**:  
