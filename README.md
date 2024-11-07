@@ -44,10 +44,5 @@
 **Description**:  
 When launching the application, an error may appear due to insufficient permissions to write in the `C:\Program Files` directory, where elevated privileges are typically required.
 
-**Resolution**:  
-To resolve this issue, run the application with Administrator privileges or configure the application to save configuration files to a location with write access.
 
----
 
-### Known issues
-Database error: disk I/O error
