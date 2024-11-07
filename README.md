@@ -23,13 +23,16 @@
   - **MAC Address**: The MAC address recorded in the Valerus database.
   - **ARP MAC Address**: The correct MAC address retrieved from an `ARP -a` command. If the device is offline, the address will be highlighted in red with an "offline" message.
   - **System Unique ID (SUID)**: The SUID as shown in the Valerus database.
+  - 
+  ![image](https://github.com/user-attachments/assets/494f6b71-61be-4881-8474-42965906c750)
 
 **4. Fixing Duplicate Entries**
 
 - Press the **Replace SUID** button to substitute the existing SystemUniqueID with the correct MAC address.
 - Upon completion, a notification will appear in the terminal at the bottom of the screen, confirming the update.
 
-![image](https://github.com/user-attachments/assets/494f6b71-61be-4881-8474-42965906c750)
+![image](https://github.com/user-attachments/assets/b88c83a7-c48f-419a-bbd1-a36cf3f211bb)
+
 
 ---
 
