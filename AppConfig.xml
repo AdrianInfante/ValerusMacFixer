@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Configuration>
+  <Paths>
+    <LogFilePath>C:\Program Files\Vicon\AppServer\Log\00000000-0000-0000-0000-000000000000</LogFilePath>
+    <DatabasePath>C:\Program Files\Vicon\AppServer\Database\AppServer.configuration.db</DatabasePath>
+  </Paths>
+</Configuration>
