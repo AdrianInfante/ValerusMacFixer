@@ -13,6 +13,9 @@
 **3. Device Information Display**
 
 - Click on any IP address in the **Log Results** section to view detailed information about the device, helping you resolve common issues.
+
+  ![image](https://github.com/user-attachments/assets/3ee5fea0-1334-4933-a67b-637808378bde)
+
   
   The displayed information includes:
   
@@ -25,6 +28,8 @@
 
 - Press the **Replace SUID** button to substitute the existing SystemUniqueID with the correct MAC address.
 - Upon completion, a notification will appear in the terminal at the bottom of the screen, confirming the update.
+
+![image](https://github.com/user-attachments/assets/494f6b71-61be-4881-8474-42965906c750)
 
 ---
 
