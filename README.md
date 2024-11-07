@@ -1,6 +1,3 @@
-Here’s a refined set of instructions and a bug fix note tailored for a GitHub README:
-
----
 
 ### Instructions
 
