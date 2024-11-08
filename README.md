@@ -38,17 +38,17 @@
 
 # Changes
 
-**1.1**
+**v1.1**
 ---
 - Fixed the error *"Failed to create default config file: Access to the path 'C:\Program Files\Vicon\AppServer\AppConfig.xml' is denied."*
 - Arp Mac address textbox is updating the background color properly
 
-**1.2**
+**v1.2**
 ---
 - Minor design modification in the debug terminal for clear reading
 - AppConfig.xml file now is located in the app folder
 
-**1.3**
+**v1.3**
 ---
 - Now the SUID will update when the conditions were: Arp result was offline and the MAC was different
 
