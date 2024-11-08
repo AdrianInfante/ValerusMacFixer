@@ -36,8 +36,8 @@
 
 ---
 
-### Changes
----
+# Changes
+
 **1.1**
 ---
 - Fixed the error *"Failed to create default config file: Access to the path 'C:\Program Files\Vicon\AppServer\AppConfig.xml' is denied."*
