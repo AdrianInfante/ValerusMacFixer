@@ -1,5 +1,5 @@
 
-### Instructions
+# Instructions
 
 **1. Search for Duplicate MAC Addresses in Logs**
 
