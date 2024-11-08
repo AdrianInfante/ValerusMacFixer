@@ -63,5 +63,6 @@
 **v1.3**
 ---
 - Now the SUID will update when the conditions were: Arp result was offline and the MAC was different
+- Arp box showing now "OFFLINE" instead of "device offline"
 
 
