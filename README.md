@@ -1,6 +1,7 @@
 
 # Instructions
 
+
 **1. Search for Duplicate MAC Addresses in Logs**
 
 - You no longer need to manually search the logs for duplicate MAC addresses. Simply click the button under **Step 1** to initiate a system-wide search for any duplicate MAC addresses.
