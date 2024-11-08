@@ -36,23 +36,12 @@
 
 ---
 
-### Bug Fix Notes
-
-  
-- **Issue**: *"Failed to create default config file: Access to the path 'C:\Program Files\Vicon\AppServer\AppConfig.xml' is denied."*
-  
-  **Date**: 11/7/24
-
-  **Description**:  
-  When launching the application, an error may appear due to insufficient permissions to write in the `C:\Program Files` directory, where elevated privileges are typically required.
-
+### Changes
+---
+**1.1**
+---
+- Fixed the error *"Failed to create default config file: Access to the path 'C:\Program Files\Vicon\AppServer\AppConfig.xml' is denied."*
+- Arp Mac address textbox is updating the background color properly
  
-- **Issue**: Arp Mac address will stay with the background in red
-  
-  **Date**: 11/7/24 
-
-  **Description**:  
-  When a device is found offline, the arp mac address textbox will change the background to red, when the users click on a different ip, the background stays in that red color even if the unit is not offline
-
 
 
