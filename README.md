@@ -28,7 +28,6 @@
   - **MAC Address**: The MAC address recorded in the Valerus database.
   - **ARP MAC Address**: The correct MAC address retrieved from an `ARP -a` command. If the device is offline, the address will be highlighted in red with an "offline" message.
   - **System Unique ID (SUID)**: The SUID as shown in the Valerus database.
-  - 
 
 
 <p align="center">
